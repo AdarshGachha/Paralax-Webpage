@@ -8,6 +8,19 @@
     font-family: roboto;
     src: url();
 }
+@font-face {
+    font-family: monument;
+    src: url(./font/MonumentExtended-Regular.ttf);
+}
+@font-face {
+    font-family: playfair;
+    src: url(./font/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+    font-family: gilroy;
+    src: url(./font/Gilroy-Regular.otf);
+}
+
 *{
     margin: 0;
     padding: 0;
